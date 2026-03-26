@@ -1,0 +1,23 @@
+# Data
+database.sqlite
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+.env/
+
+# Old/unused notebooks
+information_extraction.ipynb
+information_extraction_safe.ipynb

@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+nltk
+transformers
+torch
+tqdm
+yake
+sklearn-crfsuite
+wordcloud
